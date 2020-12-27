@@ -1,0 +1,22 @@
+Analysis Of Algorithms:
+----------------------
+
+1. Why performance analysis?
+    - Parameters like user friendliness, modularity, security, maintainability, etc can be
+      acheived only if we have a better performance.
+    - Speed is fun!
+    - Performace == scale
+
+2. Idea Of Asymptotic Analysis:
+    - Performance of an algoritm is measured in terms of input size, not the running time.
+    - To illustrate this taking an example of linear and binary search algorithms.
+
+3. Linear search vs Binary Search:
+    - The order of growth of Binary Search with respect to input size is logarithmic [O(log n)] while 
+      the order of growth of Linear Search is linear[O(n)].
+
+4. Does asymptotic analysis always work?
+    - Depends on the situation. In asymptotic analysis we always talk about the input sizes, there might be a
+      possibility that large inputs are never given to your software and an algorithm which is asymptotically slower, 
+      always performs better for your particular situation.
+
