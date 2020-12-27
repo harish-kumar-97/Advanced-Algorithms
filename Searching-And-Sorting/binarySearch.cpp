@@ -1,5 +1,5 @@
  /**
-  * A simple program to demonstrate the Binary Search algorithm
+  * A simple program to demonstrate the Binary Search Algorithm
   */
 
  #include <iostream>
